@@ -66,4 +66,3 @@ gem 'dotenv-rails'
 
 gem 'line-bot-api'
 
-gem 'sqlite3', '~> 1.3.6'
